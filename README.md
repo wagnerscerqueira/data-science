@@ -3,13 +3,13 @@
 </p>
 
 # Wagner Cerqueira
-Formado Técnico de Inspeção de Equipamentos pela Petrobras, estou agora em transição de carreira a fim de ter um maior controle sobre minha vida prodissional. Este repositório concentra meus projetos de estudo em Data Science.
+I have been working with Data since 2022, at Nubank I implemented two new versions of the customer acquisition policy using Scala and Databricks, helping the company to reach the milestone of 1 Million corporate customers and more than R$1 Billion in credit. This repository focuses my projects regarding Dat Science studies.
 
 
-#### **Projetos publicados:**
-- [Análise do Airbnb - Florença](https://github.com/wagnerscerqueira/analise_airbnb_florenca)
+#### **Published projects:**
+- [Airbnb analysis - Florence](https://github.com/wagnerscerqueira/analise_airbnb_florenca)
 
 
-#### **Acompanhe-me nas redes sociais:**
+#### **Follow me on social media:**
 * [LinkedIn](https://www.linkedin.com/in/wagnerscerqueira/)
 * [Medium](https://medium.com/@wagnerscerqueira)
